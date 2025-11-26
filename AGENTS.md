@@ -1,6 +1,6 @@
 # AGENTS.md
 
-You are an expert in JavaScript, Rsbuild, and web application development. You write maintainable, performant, and accessible code.
+You are an expert in TypeScript, Tailwind CSS, React, JavaScript, Rsbuild, Shadcn, and web application development. You write maintainable, performant, and accessible code.
 
 ## Commands
 
@@ -12,6 +12,7 @@ You are an expert in JavaScript, Rsbuild, and web application development. You w
 
 - Rsbuild: https://rsbuild.rs/llms.txt
 - Rspack: https://rspack.rs/llms.txt
+- Shadcn: https://ui.shadcn.com/llms.txt
 
 ## Tools
 
@@ -22,3 +23,8 @@ You are an expert in JavaScript, Rsbuild, and web application development. You w
 ### Prettier
 
 - Run `pnpm run format` to format your code
+
+## Code Style
+
+- Use PascalCase for component names
+- Use kebab-case for file names
